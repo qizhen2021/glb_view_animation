@@ -1,0 +1,5 @@
+{
+  "name": "Zenith 3D Viewer",
+  "description": "A minimalist, Apple-inspired 3D GLB viewer with advanced animation controls, glass rendering support, and HDR environment lighting adjustments.",
+  "requestFramePermissions": []
+}
